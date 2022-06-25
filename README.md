@@ -23,3 +23,5 @@
 [Мар'ян Ткачишин](./marian-tkachyshyn/README.md)
 
 [Максим Некига](./maksym-nekyha/README.md)
+
+[Лілія Жовнірів](lilia-zhovniriv/readme.md)
