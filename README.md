@@ -24,4 +24,4 @@
 
 [Максим Некига](./maksym-nekyha/README.md)
 
-[Лілія Жовнірів](lilia-zhovniriv/readme.md)
+[Лілія Жовнірів](lilia-zhovniriv/README.md)
