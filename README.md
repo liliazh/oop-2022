@@ -24,4 +24,6 @@
 
 [Максим Некига](./maksym-nekyha/README.md)
 
+[Лілія Жовнірів](lilia-zhovniriv/README.md)
+
 [Роман Шевців](./Roman-Shevtsiv/Readme.md)
